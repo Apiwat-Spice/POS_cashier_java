@@ -1,6 +1,6 @@
 # POS_cashier_java
 Group project  5 member /  Year2 Semester1 / Software construction 01418211 
-using netbeans
+using Apache NetBeans IDE 23 and webcam library from https://youtu.be/9CDaUrjKBIA?si=o1kyKci7UM--cpeL
 
 -Login system (checks username & password from a .txt file)
 -Webcam barcode scanning (matches barcode with product list from a .txt file / Products in .txt file can edited or updated)
