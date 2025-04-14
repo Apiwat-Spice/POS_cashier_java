@@ -7,8 +7,15 @@ using Apache NetBeans IDE 23 and webcam library from https://youtu.be/9CDaUrjKBI
 -Summary or receipt menu (displays the final result after scan poduct, like a bill or receipt)
 
 Name	Role
-Member 1	Login system
-Member 2	Webcam scanner input
-Member 3	File writing/reading java to matches barcode (me)
-Member 4	Testing debugging & GUI design
-Member 5	receipt and sumerize
+Member 1	(me) receipt and sumerize page
+Member 2	Add product page
+Member 3  GUI design
+Member 4	Login system
+Member 5	Webcam scanner input menu
+
+How to Use the Program
+1.Download the .zip file.
+2.Extract the contents of the .zip file.
+3.Go to the following path : QRCode Java job\QRCode Java\dist
+4.In the dist folder, open the file named : Scanner_Barcode_Project.jar 
+(A webcam is required.If the frame rate (FPS) is lower than 30, scanning might be difficult.)
